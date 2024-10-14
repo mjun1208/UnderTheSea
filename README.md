@@ -8,7 +8,10 @@
 https://github.com/mjun1208/UnderTheSea/releases/tag/UnderTheSea
 
 ## 게임 설명 : 
-DirectX9으로 만든 게임입니다.
+- DirectX9으로 만든 게임입니다.
+- 포지션 값과 맵 사이즈를 20배줄이는 형식으로 미니맵을 구현했습니다.
+- 미니맵에서 픽셀충돌을 사용하여 충돌처리를 구현했습니다.
+- 적과 총알은 AABB Rect 충돌입니다.
 
 ![캡처_2020_03_17_18_40_31_184](https://github.com/user-attachments/assets/60e792c8-9e95-47b0-9f82-e578a32a9611)
 ![캡처_2020_03_17_18_40_34_522](https://github.com/user-attachments/assets/fb4e2f2f-e44c-497c-b654-3be63f3a82fc)
