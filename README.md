@@ -13,6 +13,7 @@ https://github.com/mjun1208/UnderTheSea/releases/tag/UnderTheSea
 - 미니맵에서 픽셀충돌을 사용하여 충돌처리를 구현했습니다.</br>
 - 적과 총알은 AABB Rect 충돌입니다.</br>
 </br>
+
 - DirectX9を用いて制作したゲームです。</br>
 - 座標値とマップサイズを20分の1に縮小する形で、ミニマップを実装しました。</br>
 - ミニマップではピクセル単位の衝突判定を用いて、当たり判定を実装しました。</br>
