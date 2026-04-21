@@ -1,17 +1,22 @@
 # Under The Sea
 
-#### 영상 링크 :
+#### 영상 링크 / 動画リンク :
 
 [![Video_Label](http://img.youtube.com/vi/QEPJnT9J55w/0.jpg)](https://youtu.be/QEPJnT9J55w)
 
-#### 실행 파일 : 
+#### 실행 파일 / 実行ファイル : 
 https://github.com/mjun1208/UnderTheSea/releases/tag/UnderTheSea
 
-## 게임 설명 : 
-- DirectX9으로 만든 게임입니다.
-- 포지션 값과 맵 사이즈를 20배줄이는 형식으로 미니맵을 구현했습니다.
-- 미니맵에서 픽셀충돌을 사용하여 충돌처리를 구현했습니다.
-- 적과 총알은 AABB Rect 충돌입니다.
+## 게임 설명 / ゲーム説明 : 
+- DirectX9으로 만든 게임입니다.</br>
+- 포지션 값과 맵 사이즈를 20배줄이는 형식으로 미니맵을 구현했습니다.</br>
+- 미니맵에서 픽셀충돌을 사용하여 충돌처리를 구현했습니다.</br>
+- 적과 총알은 AABB Rect 충돌입니다.</br>
+</br>
+- DirectX9を用いて制作したゲームです。</br>
+- 座標値とマップサイズを20分の1に縮小する形で、ミニマップを実装しました。</br>
+- ミニマップではピクセル単位の衝突判定を用いて、当たり判定を実装しました。</br>
+- 敵と弾丸の衝突判定には、AABBのRect判定を使用しています。</br>
 
 ![캡처_2020_03_17_18_40_31_184](https://github.com/user-attachments/assets/60e792c8-9e95-47b0-9f82-e578a32a9611)
 ![캡처_2020_03_17_18_40_34_522](https://github.com/user-attachments/assets/fb4e2f2f-e44c-497c-b654-3be63f3a82fc)
